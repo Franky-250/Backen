@@ -1,4 +1,4 @@
-const Estado = require("../models/Estado");
+const Estado = require("../models/estado");
 const { request, response } = require("express");
 
 //Crear
